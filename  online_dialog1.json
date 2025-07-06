@@ -1,0 +1,28 @@
+{
+  "dialogConfig": {
+    "enabled": true,
+    "version": "2.2.7",
+    "mandatory": false,
+    "update_url": "https://t.me/ApkGeek",
+    "title": "Доступно обновление!",
+    "message": "Вышла новая версия приложения. Пожалуйста, обновите сейчас, чтобы воспользоваться новыми функциями. ",
+    "socialLinks": [
+      {
+        "name": "facebook",
+        "url": "https://t.me/ApkGeek"
+      },
+      {
+        "name": "twitter",
+        "url": "https://t.me/ApkGeek"
+      },
+      {
+        "name": "instagram",
+        "url": "https://t.me/ApkGeek"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://t.me/ApkGeek"
+      }
+    ]
+  }
+}
